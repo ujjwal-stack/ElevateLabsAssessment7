@@ -122,8 +122,9 @@ java -cp "bin;lib/*" com.employeeDB.EmployeeMain
 
 ```
 
+---
 
-###💡 Usage Examples
+### 💡 Usage Examples
 
 - Adding an Employee
 ```bash
@@ -148,6 +149,8 @@ Last Name [Doe]:
 Salary [75000]: 80000
 ```
 
+---
+
 ### 📊 Database Schema
 ```bash 
 sqlCREATE TABLE employees (
@@ -163,6 +166,8 @@ sqlCREATE TABLE employees (
 );
 ```
 
+---
+
 ### 🌟 Best Practices Demonstrated
 
  - **Separation of Concerns:** Model, DAO, and UI are separated
@@ -173,14 +178,17 @@ sqlCREATE TABLE employees (
  - **Input Validation:** All user inputs are validated
  - **Professional UI:** Clean, formatted console interface with icons
 
+---
 
 ### 👨‍💻 Author
 Developed By **UJJWAL SINGH**
-
+contact **ujjwalrajput1006@gmail.com**
  - Demonstrates JDBC proficiency
  - Follows industry best practices
  - Clean, maintainable code
  - Professional documentation
+
+---
 
 ### 📄 License
 
