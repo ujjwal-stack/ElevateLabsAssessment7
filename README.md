@@ -1,4 +1,4 @@
-# Employee Database Management System - JDBC Edition
+# 👨‍💻 Employee Database Management System - JDBC Edition
 
 A comprehensive Java-based employee management system demonstrating JDBC connectivity, CRUD operations, and professional software design patterns.
 
@@ -54,7 +54,7 @@ EmployDBAssessment/
 
 ---
 
-## Technical Highlights
+##  🖥️ Technical Highlights
 
 - *PreparedStatement* usage to prevent SQL injection
 - *ResultSet* handling with proper resource management
@@ -115,7 +115,7 @@ bash# Compile
 javac -cp "lib/*" -d bin src/com/employeeDB/EmployeeMain.java src/com/employeeDB/config/DBConfig.java src/com/employeeDB/dao/EmployeeDao.java src/com/employeeDB/model/Employee.java
 ```
 
-### Run
+### ▶️ Run
 
 ```bash
 java -cp "bin;lib/*" com.employeeDB.EmployeeMain  
@@ -181,12 +181,12 @@ sqlCREATE TABLE employees (
 ---
 
 ### 👨‍💻 Author
-Developed By **UJJWAL SINGH**
-contact **ujjwalrajput1006@gmail.com**
- - Demonstrates JDBC proficiency
- - Follows industry best practices
- - Clean, maintainable code
- - Professional documentation
+ - Developed By **UJJWAL SINGH**
+ - Contact **ujjwalrajput1006@gmail.com**
+   - Demonstrates JDBC proficiency
+   - Follows industry best practices
+   - Clean, maintainable code
+   - Professional documentation
 
 ---
 
@@ -194,5 +194,5 @@ contact **ujjwalrajput1006@gmail.com**
 
  This project is created for educational.
 
-> Note:
+> [!NOTE]
 > This project demonstrates fundamental JDBC concepts and is designed to showcase practical database programming skills. For production applications, consider using ORM frameworks like Hibernate or Spring Data JPA.
